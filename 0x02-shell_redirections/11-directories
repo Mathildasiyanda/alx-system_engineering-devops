@@ -1,1 +1,2 @@
 #!/bin/bash
+find . -1 -type -d | wc -1
